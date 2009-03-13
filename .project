@@ -1,0 +1,13 @@
+<projectDescription>
+  <name>tuple-ordered</name>
+  <comment>An implementation the Comparable interface for Java Tuple.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

@@ -1,0 +1,31 @@
+TUPLE ORDERED
+
+An implemenation of comparable for Java Tuples.
+
+    Issues and Tasks: http://curlybraces.org/trac/incubator
+    Source: http://github.com/bigeasy/tuple-ordered/tree/master
+    Contact: alan@blogometer.com
+    See Also: http://javatuple.com/
+
+PURPOSE
+
+Provides a factory for creating Comparable implementations that contain a tuple
+and compare the fields in that tuple against a tuple of the same type.
+
+EXAMPLE
+
+    http://tr.im/7kjq
+
+THANKS FOR THE TUPLES
+
+The typles are supplied by the com.mallardsoft.tuple library written by
+Michael L Perry.
+
+    http://javatuple.com/
+
+This library is succinct and its design encouraged me to find a solution
+to partial comparison that favored immutability.
+
+MOTIVATION
+
+---
